@@ -1,4 +1,2 @@
-hii
-This is another line
-the last line
-again another line
+one line
+two line in file no.two
